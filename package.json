@@ -1,0 +1,23 @@
+{
+  "name": "anvil-connect-api",
+  "version": "0.0.0",
+  "description": "API Client for Anvil Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christiansmith/anvil-connect-api.git"
+  },
+  "author": {
+    "name": "Christian Smith",
+    "email": "smith@anvil.io",
+    "url": "http://anvil.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christiansmith/anvil-connect-api/issues"
+  },
+  "homepage": "https://github.com/christiansmith/anvil-connect-api"
+}
